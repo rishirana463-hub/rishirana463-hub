@@ -78,8 +78,6 @@ A browser-based image compression tool — no uploads, no servers, just pure Can
 
 <div align="center">
 
-![Rishi's Stats](https://github-readme-stats.vercel.app/api?username=rishirana463-hub&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=a855f7&icon_color=a855f7)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=rishirana463-hub&theme=midnight-purple&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirana463-hub&layout=compact&theme=midnight-purple&hide_border=true&title_color=a855f7)
