@@ -90,8 +90,8 @@ A browser-based image compression tool — no uploads, no servers, just pure Can
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio.com](https://rishi-portfolio-alpha-one.vercel.app))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=vercel&logoColor=white)](https://rishi-portfolio-alpha-one.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-rana-256a16349/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
 
 </div>
