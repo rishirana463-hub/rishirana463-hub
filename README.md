@@ -1,20 +1,21 @@
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:581C87,100:9333EA&height=190&section=header&text=Rishi%20Rana&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7E22CE,50:9333EA,100:A855F7&height=190&section=header&text=Rishi%20Rana&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=190&section=header&text=Rishi%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Rishi Rana — Frontend Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=110&section=header" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=110&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=110&section=header"
+    alt="Purple gradient header" width="100%" />
 </picture>
 
-### Frontend Developer (React) | Seeking Internships
+<h1>Rishi Rana</h1>
 
-I build clean, responsive interfaces and practical web tools, with a focus on usability and performance.
+<h3>Frontend Developer (React) | Seeking Internships</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://rishi-portfolio-alpha-one.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-rana-256a16349/)
-[![GitHub](https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishirana463-hub)
-
-<img src="https://komarev.com/ghpvc/?username=rishirana463-hub&style=flat-square&color=9333EA&label=Profile+Views" alt="GitHub profile view counter"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=React+%7C+JavaScript+%7C+Tailwind+CSS;Building+clean+and+responsive+web+apps;Open+to+Frontend+Internships"
+alt="Animated frontend developer introduction" />
 
 </div>
 
