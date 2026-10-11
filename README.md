@@ -168,7 +168,7 @@ I'm interested in **frontend internships, collaborative projects, and opportunit
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://rishi-portfolio-alpha-one.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-rana-256a16349/)
 
-**Email:** [EMAIL_ADDRESS]
+**Email:** rishirana463@gmail.com
 
 <div align="center">
 
