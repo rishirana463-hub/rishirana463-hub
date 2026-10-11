@@ -1,125 +1,178 @@
-# Hey, I'm Rishi Rana 👋
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:512DA8,100:9333EA&height=200&section=header&text=Rishi%20Rana&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Cloud%20%26%20DevOps%20Explorer&descAlignY=57&descSize=16" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:581C87,100:9333EA&height=190&section=header&text=Rishi%20Rana&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7E22CE,50:9333EA,100:A855F7&height=190&section=header&text=Rishi%20Rana&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=190&section=header&text=Rishi%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Rishi Rana — Frontend Developer" width="100%"/>
+</picture>
 
-### Building digital experiences that are clean, functional, and meaningful.
+### Frontend Developer (React) | Seeking Internships
+
+I build clean, responsive interfaces and practical web tools, with a focus on usability and performance.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://rishi-portfolio-alpha-one.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-rana-256a16349/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishirana463-hub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-rana-256a16349/)
+[![GitHub](https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishirana463-hub)
 
-<img src="https://komarev.com/ghpvc/?username=rishirana463-hub&style=flat-square&color=9333EA&label=Profile+Views"/>
-
-</div>
-
----
-
-### `> whoami`
-
-I'm a frontend-focused developer from Mumbai with a passion for creating smooth, responsive, and user-friendly web applications.
-
-I enjoy turning ideas into functional products, experimenting with modern technologies, and constantly improving how I build software.
-
-- 🎨 **Frontend:** React, JavaScript, Tailwind CSS, Framer Motion
-- ☁️ **Exploring:** AWS, Cloud Computing & DevOps
-- 🧠 **Learning:** Data Structures & Algorithms in Python
-- 🚀 **Interested in:** Real-world applications, automation and scalable systems
-- 💼 **Open to:** Internships and collaboration opportunities
-
----
-
-### `> featured_project`
-
-#### 🖼️ Client-Side Image Compressor
-
-A lightweight, privacy-first image optimization tool that runs entirely inside your browser.
-
-**Highlights**
-- Compress images without uploading them to a server
-- Customize compression quality with an interactive slider
-- Export images in JPEG, PNG and WebP formats
-- Preview results directly in the browser
-- Built around the browser's Canvas API
-
-**Why it matters:** Simple, efficient image optimization without compromising user privacy.
-
----
-
-### `> tech_stack`
-
-**Frontend Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-6e40c9?style=flat-square&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Programming, Backend & Cloud**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### `> projects --list`
-
-| Project | Description |
-| :--- | :--- |
-| **CCMS** | College content management system |
-| **Neighborhood Alert** | Community alert and notification platform |
-| **Image Compressor** | Privacy-first browser-based image compression |
-| **Ice Cream Sales Predictor** | Machine learning model for weather-based sales prediction |
-| **Weather App** | Minimal weather application with live data |
-| **AWS Cost Optimizer** | Identifies potentially unused AWS resources to reduce costs |
-
-*Explore my repositories to see the projects and their implementation.*
-
----
-
-### `> currently_working_on`
-
-```text
-[01] Building practical DevOps projects
-[02] Strengthening DSA fundamentals in Python
-[03] Exploring AWS cloud infrastructure
-[04] Improving frontend architecture and UI/UX
-```
-
----
-
-### `> github_activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishirana463-hub&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" alt="Most Used Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rishirana463-hub&theme=tokyonight&hide_border=true&ring=A78BFA&fire=9333EA" alt="GitHub Contribution Streak"/>
+<img src="https://komarev.com/ghpvc/?username=rishirana463-hub&style=flat-square&color=9333EA&label=Profile+Views" alt="GitHub profile view counter"/>
 
 </div>
 
 ---
 
-### `> connect --with-me`
+### About Me
 
-Interested in collaborating, discussing a project, or sharing an opportunity?
+I'm a frontend-focused developer based in Mumbai, building web applications with **React, JavaScript, and modern UI tools**.
 
-- 🌐 **Portfolio:** [Explore my work](https://rishi-portfolio-alpha-one.vercel.app)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rishi-rana-256a16349/)
-- 💻 **GitHub:** [Browse my repositories](https://github.com/rishirana463-hub)
+- **What I build:** Responsive web interfaces, browser-based utilities, and practical applications.
+- **What I care about:** Clean UI, usability, performance, and maintainable code.
+- **Beyond frontend:** Exploring AWS and DevOps while strengthening Python and DSA fundamentals.
+- **What I'm looking for:** Frontend development internships where I can contribute, learn, and ship real features.
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🖼️ Image Compressor</h3>
+
+**Optimize images privately, without uploading them to a server.**
+
+<code>JavaScript</code> <code>Canvas API</code> <code>HTML/CSS</code>
+
+**Built:** Browser-based compression, adjustable quality, previews, and JPEG/PNG/WebP output.
+
+**Learned:** Client-side image processing and quality-versus-file-size tradeoffs.
+
+<a href="[IMAGE_COMPRESSOR_DEMO_URL]">Live Demo ↗</a> · <a href="[IMAGE_COMPRESSOR_REPO_URL]">Source Code ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📚 CCMS</h3>
+
+**A college content management system for organizing academic content.**
+
+<code>[TECH_STACK]</code>
+
+**Built:** A platform for managing college content.
+
+**Learned:** [ONE_SPECIFIC_TECHNICAL_LESSON]
+
+<a href="[CCMS_DEMO_URL]">Live Demo ↗</a> · <a href="[CCMS_REPO_URL]">Source Code ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📢 Neighborhood Alert</h3>
+
+**A community platform for sharing alerts and notifications.**
+
+<code>[TECH_STACK]</code>
+
+**Built:** A community-oriented alert and notification application.
+
+**Learned:** [ONE_SPECIFIC_TECHNICAL_LESSON]
+
+<a href="[NEIGHBORHOOD_DEMO_URL]">Live Demo ↗</a> · <a href="[NEIGHBORHOOD_REPO_URL]">Source Code ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌤️ Weather App</h3>
+
+**A minimal interface for checking live weather information.**
+
+<code>[TECH_STACK]</code>
+
+**Built:** A weather application focused on a simple user experience.
+
+**Learned:** [ONE_SPECIFIC_TECHNICAL_LESSON]
+
+<a href="[WEATHER_DEMO_URL]">Live Demo ↗</a> · <a href="[WEATHER_REPO_URL]">Source Code ↗</a>
+
+</td>
+</tr>
+</table>
+
+Explore more projects in my [GitHub repositories](https://github.com/rishirana463-hub?tab=repositories).
+
+---
+
+### Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-9333EA?style=flat-square&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9333EA?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-9333EA?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9333EA?style=flat-square&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-9333EA?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-9333EA?style=flat-square&logo=framer&logoColor=white)
+
+**Programming & Tools**
+
+![Python](https://img.shields.io/badge/Python-9333EA?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-9333EA?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9333EA?style=flat-square&logo=git&logoColor=white)
+
+**Currently Exploring:** AWS · Docker · DevOps
+
+---
+
+### Currently
+
+- Building and refining frontend projects for my portfolio.
+- Practicing data structures and algorithms using Python.
+- Learning AWS fundamentals and practical DevOps workflows.
+- Looking for frontend internship opportunities.
+
+---
+
+### GitHub Activity
 
 <div align="center">
 
-**Build. Learn. Improve. Repeat.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rishirana463-hub&show_icons=true&theme=tokyonight&hide_border=true&title_color=9333EA"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishirana463-hub&show_icons=true&theme=default&hide_border=true&title_color=9333EA" alt="Rishi Rana GitHub activity statistics" height="165"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rishirana463-hub&layout=compact&theme=tokyonight&hide_border=true&title_color=9333EA"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishirana463-hub&layout=compact&theme=default&hide_border=true&title_color=9333EA" alt="Most used languages across public GitHub repositories" height="165"/>
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:512DA8,100:0d1117&height=100&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rishirana463-hub&theme=tokyonight&hide_border=true&ring=9333EA&fire=A855F7"/>
+  <img src="https://streak-stats.demolab.com?user=rishirana463-hub&theme=default&hide_border=true&ring=9333EA&fire=A855F7" alt="GitHub contribution streak"/>
+</picture>
+
+<sub>If a statistics card is unavailable, view my <a href="https://github.com/rishirana463-hub">repositories and contribution activity directly on GitHub</a>.</sub>
+
+</div>
+
+---
+
+### Let's Connect
+
+I'm interested in **frontend internships, collaborative projects, and opportunities to build useful web applications**.
+
+**Have an opportunity or a project in mind? Let's talk.**
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://rishi-portfolio-alpha-one.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-rana-256a16349/)
+
+**Email:** [EMAIL_ADDRESS]
+
+<div align="center">
+
+<sub>Made with curiosity, code, and attention to detail.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:581C87&height=90&section=footer" alt="Purple gradient footer" width="100%"/>
 
 </div>
